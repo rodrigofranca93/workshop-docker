@@ -1,6 +1,6 @@
 FROM python:3.12
 RUN pip install poetry
-COPY . /scr
+COPY . /
 WORKDIR /src
 RUN poetry install
 EXPOSE 8501
