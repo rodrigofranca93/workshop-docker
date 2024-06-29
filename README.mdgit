@@ -1,0 +1,2 @@
+"# workshop-docker"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/rodrigofranca93/workshop-docker.gitgit push -u origin main
+"# workshop-docker"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/rodrigofranca93/workshop-docker.gitgit push -u origin main
